@@ -8,6 +8,6 @@
   "packages": {
     "hammer": {},
     "jquery-hotkeys" : {},
-    "jquery-mousewheel" : { "git" : "https://github.com/terryschen/meteor-mapjs.git" }
+    "jquery-mousewheel" : { "git" : "https://github.com/terryschen/meteor-jquery-mousewheel.git" }
   }
 }
