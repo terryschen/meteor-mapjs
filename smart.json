@@ -3,11 +3,11 @@
   "description": "Mindmup mapjs mind mapping visualization for meteor.js",
   "homepage": "https://github.com/terryschen/meteor-mapjs",
   "author": "terryschen ",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "git": "https://github.com/terryschen/meteor-mapjs.git",
   "packages": {
     "hammer": {},
     "jquery-hotkeys" : {},
-    "jquery-mousewheel" : {}
+    "jquery-mousewheel" : { "git" : "https://github.com/terryschen/meteor-mapjs.git" }
   }
 }
